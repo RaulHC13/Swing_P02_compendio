@@ -6,7 +6,7 @@ Descripcion asd asdasdasd
 
 ## Contenido
 
-- [Descripción] (#Swing-P02-Compendio)
+- [Descripción](#Swing-P02-Compendio)
 - Desarrollo
 - Despliegue
 - Construcción
