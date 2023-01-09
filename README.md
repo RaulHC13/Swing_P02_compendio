@@ -57,5 +57,5 @@ Versión 1.0
 
 ## Recursos adicionales
 
-[Github](https://skillicons.dev/icons?i=github)
+![Github](https://skillicons.dev/icons?i=github)
 
