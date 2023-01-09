@@ -7,7 +7,7 @@ Descripcion asd asdasdasd
 - [Desarrollo](#Desarrollo)
 - [Despliegue](#Despliegue)
 - [Construcción](#Construcción)
-- [Versión](#Versión)]
+- [Versión](#Versión)
 - [Autores](#Autores)
 - [Licencia](#Licencia)
 
