@@ -10,7 +10,6 @@ Descripcion asd asdasdasd
 - [Versión](#Versión)]
 - [Autores](#Autores)
 - [Licencia](#Licencia)
-- [Recursos adicionales](#Recursos-adicionales)
 
 
 
