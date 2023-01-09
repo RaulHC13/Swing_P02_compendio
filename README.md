@@ -2,6 +2,8 @@
 
 Descripcion asd asdasdasd
 
+
+
 ## Contenido
 
 - [Desarrollo](#Desarrollo)
@@ -15,42 +17,45 @@ Descripcion asd asdasdasd
 
 ## Desarrollo
 
-
+Desarrollo
 
 
 
 ## Despliegue
 
-Para ejecutar la aplicación en el directorio [ejecutable](ejecutable)
+Para ejecutar la aplicación, desde el directorio [ejecutable](ejecutable)
 
 ```shell
 java -jar swing_c_p02_HerreriasCorralRaul.jar
 ```
 
+
+
 ## Construcción
 
-
+Construcción
 
 
 
 ## Versión
 
-Ver
+Versión 1.0
 
 
 
 ## Autores
 
-
+[Raúl Herrerías Corral](https://github.com/RaulHC13)
 
 
 
 ## Licencia
 
-
-
-
+[Licencia GNU General Public License v3.0](LICENSE)
 
 
 
 ## Recursos adicionales
+
+[Github](https://skillicons.dev/icons?i=github)
+
