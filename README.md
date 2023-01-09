@@ -21,9 +21,11 @@ Descripcion asd asdasdasd
 
 ## Despliegue
 
+Para ejecutar la aplicación en el directorio [ejecutable](ejecutable)
 
-
-
+```shell
+java -jar swing_c_p02_HerreriasCorralRaul.jar
+```
 
 ## Construcción
 
@@ -33,7 +35,7 @@ Descripcion asd asdasdasd
 
 ## Versión
 
-
+Ver
 
 
 
