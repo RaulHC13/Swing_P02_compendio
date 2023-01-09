@@ -59,7 +59,7 @@ Versión 1.0
 
 ![Github](https://skillicons.dev/icons?i=github) 
 
-**[Github]**(https://github.com/)
+[**Github**](https://github.com/)
 
 
 
