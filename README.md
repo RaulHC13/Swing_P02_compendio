@@ -37,7 +37,7 @@ La aplicación está dividida en tres secciones:
 
     ​	habitación y de cliente.
 
-    ​	[PanelCuatro](desarrollo/src/panelesInteriores/PanelCuatro) paneles donde, al utilizar la opción imprimir, se imprime la información
+    ​	Panel cuantro, contiene paneles donde, al utilizar la opción imprimir, se imprime la información
 
     ​	de ambos, habitación y cliente.
 
