@@ -21,25 +21,25 @@ La aplicación está dividida en tres secciones:
 
 - [__paquetePrincipal__](desarrollo/src/paquetePrincipal)
 
-​	    Donde se encuentran los paneles exteriores con los que el usuario interactúa
+    ​	    Donde se encuentran los paneles exteriores con los que el usuario interactúa
 
-​	    directamente, además de el método ``main``
+    ​	    directamente, además de el método ``main``
 
 - [__panelesExteriores__](desarrollo/src/panelesExteriores)
 
-​			Contiene el panel central y el panel inferior, son los paneles que el usuario ve pero
+    ​			Contiene el panel central y el panel inferior, son los paneles que el usuario ve pero
 
-​			con los que no interactúa directamente.
+    ​			con los que no interactúa directamente.
 
 - [__panelesInteriores__](desarrollo/src/panelesInteriores)
 
-​			Contiene los paneles en los que se introduce la información, los formularios de  
+    ​	Contiene los paneles en los que se introduce la información, los formularios de  
 
-​			habitación y de cliente.
+    ​	habitación y de cliente.
 
-​			[PanelCuatro](desarrollo/src/panelesInteriores/PanelCuatro) paneles donde, al utilizar la opción imprimir, se imprime la información
+    ​	[PanelCuatro](desarrollo/src/panelesInteriores/PanelCuatro) paneles donde, al utilizar la opción imprimir, se imprime la información
 
-​			de ambos, habitación y cliente.
+    ​	de ambos, habitación y cliente.
 
 ## Despliegue
 
